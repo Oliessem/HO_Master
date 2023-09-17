@@ -4,8 +4,13 @@ const Sobre = () => {
   return (
     <div className="container-sobre h-screen md:h-screen lg:h-screen sm:h-full">
       <p>
-       Trailer localizado na Cidade Iguape SP, gerenciado pelo tio Oziender e a tia Eunice,
-       começou em 2019 e se mantem até hoje.
+       A SOHL Arquitetura e Engenharia possui mais de 10 anos de experiência em projetos e serviços
+       para a construção civil.
+       Entre suas atividades estão:
+       - Obras comerciais, residenciais e multifamiliares na região de Joinville.
+       - Obras Industriais em Santa Catarina e Paraná.
+
+         Atualmente tem se especializado em atendimento on-line.
        
       <hr/>
      
