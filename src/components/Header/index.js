@@ -8,17 +8,17 @@ import './style.css'
 const Header = () =>{
     return(
         <main className="container-main  ">
-            <h1><IoMdFlower/>Ohana</h1>
+            <h1><IoMdFlower/>SOHL Arquitetura e Engenharia</h1>
 
             <ul>
                 <li><Link to='/'><a>Inicio</a></Link></li>
-                <li><Link to='/service'><a>Cardapio</a></Link></li>
+                <li><Link to='/service'><a>Serviços</a></Link></li>
                 <li><Link to='/contact'><a>Sobre</a></Link></li>
             </ul>
 
             <ul className="icons">
-                <li><a href="https://www.instagram.com/ohana.trailer/"><AiFillInstagram/></a></li>
-                <li><a href="https://www.facebook.com/ohana.trailer013"><GrFacebookOption/></a></li>  
+                <li><a href="https://www.instagram.com/"><AiFillInstagram/></a></li>
+                <li><a href="https://www.facebook.com/"><GrFacebookOption/></a></li>  
             </ul>
 
         </main>
