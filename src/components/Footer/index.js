@@ -8,10 +8,10 @@ const Footer = () =>{
              
              <span className='adress'>
                 
-                <MdLocationOn/> Av. Princesa Isabel , 731 - Centro, Iguape - SP(s/n)
-                <BsFillTelephoneFill/>(13)997064784
+                <MdLocationOn/> Brasil
+                <BsFillTelephoneFill/> (47)99112-7739 e (47)99112-7742
              </span>
-             <a href='https://github.com/zzeis/SPA---Trailer'> <p> by @zzeis <br/> <AiOutlineGithub/> </p></a>
+             <a href='https://hoengenharia.com.br'> <p> by Suellen e Orlando <br/> <AiOutlineGithub/> </p></a>
             
         </footer>
     )
