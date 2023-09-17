@@ -9,10 +9,9 @@ const Home = () => {
           <h1 >
             SOHL 
             <br />
-            Arquitetura e Engenharia - Studio
           </h1>
           <p >
-           Projetos Completos para sua obra.<br/>
+           Arquitetura e Engenharia - Studio de Projetos Completos para sua obra.<br/>
            Arquitetônico | Interiores | Estruturas | Complementares | Obras Comerciais | Obras Industriais
           </p>
         </div>
