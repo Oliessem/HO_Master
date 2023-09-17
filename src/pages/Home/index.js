@@ -7,9 +7,9 @@ const Home = () => {
      
         <div className="card-title">
           <h1 >
-            SOHL Arquitetura e Engenharia
+            SOHL 
             <br />
-            Studio
+            Arquitetura e Engenharia - Studio
           </h1>
           <p >
            Projetos Completos para sua obra.<br/>
