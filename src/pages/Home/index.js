@@ -7,14 +7,13 @@ const Home = () => {
      
         <div className="card-title">
           <h1 >
-            Ohana
+            SOHL Arquitetura e Engenharia
             <br />
-            Trailer
+            Studio
           </h1>
           <p >
-           O trailer da familia! venha se divertir com seus
-           amigos.<br/>
-           Lanches | Hotdogs | Salgados | Drinks
+           Projetos Completos para sua obra.<br/>
+           Arquitetônico | Interiores | Estruturas | Complementares | Obras Comerciais | Obras Industriais
           </p>
         </div>
       <div className="animation ">
