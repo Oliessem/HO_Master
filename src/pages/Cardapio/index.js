@@ -12,26 +12,34 @@ const Cardapio = () =>{
         <div className='container-cardapio h-full md:h-screen lg:h-screen sm:h-full'>
 
             <div className='card'>
-                <Service name='Projetos Arquitetônicos'/>
+                <Service name='Arquitetônicos'/>
                 <img className='drawn' src={Hotdog} alt='Hotdog'/>
             </div>
 
             <div className='card'>
-                <Service name='Projetos de Interior'/>
+                <Service name='Interior'/>
                 <img className='drawn' src={Lanches} alt='Lanches'/>
             </div>
 
             <div className='card'>
-              <Service className='drawn' name='Projetos Estruturais'/>
+              <Service className='drawn' name='Estruturais'/>
               <img className='drawn' src={Drinks} alt='Drinks'/>
             </div>
             
             <div className='card'>
-                <Service name='Projetos Complementares'/>
+                <Service name='Complementares'/>
                 <img className='drawn'  src={Coxinha} alt='Salgados'/>
             </div>
             
+            <div className='card'>
+                <Service name='Industrais'/>
+                <img className='drawn'  src={Coxinha} alt='Salgados'/>
+            </div>
 
+            <div className='card'>
+                <Service name='Comerciais'/>
+                <img className='drawn'  src={Coxinha} alt='Salgados'/>
+            </div>        
          
         </div>
         
