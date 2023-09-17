@@ -12,22 +12,22 @@ const Cardapio = () =>{
         <div className='container-cardapio h-full md:h-screen lg:h-screen sm:h-full'>
 
             <div className='card'>
-                <Service name='Hotdogs'/>
+                <Service name='Projetos Arquitetônicos'/>
                 <img className='drawn' src={Hotdog} alt='Hotdog'/>
             </div>
 
             <div className='card'>
-                <Service name='Lanches'/>
+                <Service name='Projetos de Interior'/>
                 <img className='drawn' src={Lanches} alt='Lanches'/>
             </div>
 
             <div className='card'>
-              <Service className='drawn' name='Drinks'/>
+              <Service className='drawn' name='Projetos Estruturais'/>
               <img className='drawn' src={Drinks} alt='Drinks'/>
             </div>
             
             <div className='card'>
-                <Service name='Salgados'/>
+                <Service name='Projetos Complementares'/>
                 <img className='drawn'  src={Coxinha} alt='Salgados'/>
             </div>
             
