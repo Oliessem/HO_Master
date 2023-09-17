@@ -9,12 +9,11 @@ const Sobre = () => {
        - Obras comerciais, residenciais e multifamiliares na região de Joinville. <br/>
        - Obras Industriais em Santa Catarina e Paraná. <br/>
 
-         Atualmente tem se especializado em atendimento on-line. <br/>
+        Atualmente tem se especializado em atendimento on-line. <br/>
 
-    A Arquiteta  <br/>
+        A Arquiteta  <br/>
 
-    A Arquiteta Suellen Bona L., conhecida por seus Clientes como Sula Bona, é Graduada em Arquitetura e Urbanismo pela Unisociesc, Pós-Graduada em Interiores e Biodiversidade, fez Intercâmbio em Madrid- Espanha, e hoje está a frente do Escritório da SOHL Arquitetura & Engenharia, com uma equipe capacitada para atender, desenvolver e realizar os Sonhos de todos os clientes que confiam em nosso trabalho, e juntos transformamos esses Sonhos em Realidade.
-
+        A Arquiteta Suellen Bona L., conhecida por seus Clientes como Sula Bona, é Graduada em Arquitetura e Urbanismo pela Unisociesc, Pós-Graduada em Interiores e Biodiversidade, fez Intercâmbio em Madrid- Espanha, e hoje está a frente do Escritório da SOHL Arquitetura & Engenharia, com uma equipe capacitada para atender, desenvolver e realizar os Sonhos de todos os clientes que confiam em nosso trabalho, e juntos transformamos esses Sonhos em Realidade.
        
       <hr/>
      
